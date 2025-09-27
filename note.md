@@ -8,3 +8,13 @@ see configuration
 ```
 git config --list
 ```
+3 stages 
+```
+U =Untracked
+A = Added
+M = Modified
+```
+git initialization
+```
+git init
+```
