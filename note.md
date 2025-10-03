@@ -31,12 +31,17 @@ add all files & folders
 git add .
 ```
 
-commit 1st time
+commit
+```
+git commit -m "your message"
+```
+
+push 1st time
 ```
 git push origin main
 ```
 
-commint 2nd to last time
+push 2nd to last time
 ```
 git push
 ```
