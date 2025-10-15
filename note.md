@@ -12,7 +12,7 @@ git init
 
 add file
 ```
-git add FILENAME
+git add [FILE NAME]
 ```
 add all files & folders
 ```
@@ -21,7 +21,7 @@ git add .
 
 commit
 ```
-git commit -m "your message"
+git commit -m "[your message]"
 ```
 
 push 1st time
