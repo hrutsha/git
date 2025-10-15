@@ -1,0 +1,3 @@
+windows + R
+control /name Microsoft.CredentialManager
+windows crendentials
